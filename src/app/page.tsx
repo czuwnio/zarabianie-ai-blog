@@ -10,7 +10,18 @@ export default function Home() {
         <p className="hero-subtitle">
           Odkryj najnowsze narzędzia sztucznej inteligencji, automatyzacje oraz strategie biznesowe, które pozwolą Ci zbudować nowoczesny pasywny dochód.
         </p>
-        <button className="btn">Bądź na bieżąco</button>
+      </section>
+
+      {/* Sekcja Bestseller */}
+      <section style={{ backgroundColor: 'var(--surface)', padding: '3rem', borderRadius: 'var(--radius-xl)', border: '2px solid var(--primary)', display: 'flex', gap: '3rem', alignItems: 'center', marginBottom: '4rem', boxShadow: 'var(--shadow-lg)' }}>
+        <img src="/images/ebook_cover.png" alt="Okładka e-booka Prompt Engineering 101" style={{ width: '250px', borderRadius: 'var(--radius-md)', boxShadow: 'var(--shadow-md)' }} />
+        <div>
+          <span className="article-tag" style={{ backgroundColor: 'var(--primary)', color: 'white', padding: '0.2rem 0.5rem', borderRadius: 'var(--radius-sm)' }}>🔥 Bestseller</span>
+          <h2 style={{ fontSize: '2.5rem', marginTop: '1rem', color: 'var(--foreground)' }}>E-book: Prompt Engineering 101</h2>
+          <p style={{ fontSize: '1.2rem', color: 'var(--text-muted)', marginBottom: '2rem' }}>Poznaj sztukę tworzenia poleceń dla AI i oszczędzaj nawet 10 godzin tygodniowo. Praktyczne przykłady i formuły gotowe do wklejenia.</p>
+          <a href="#" className="btn" style={{ padding: '1rem 2rem', fontSize: '1.2rem', display: 'inline-block' }}>Pobierz E-book za jedyne 29 PLN</a>
+          <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.5rem' }}>👉 (Podmień ten link '#' na swój link z Gumroad/EasyCart)</p>
+        </div>
       </section>
 
       <section>
