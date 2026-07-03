@@ -3,7 +3,7 @@ title: "Czy AI zabierze nam pracę? Zawody przyszłości"
 excerpt: "Jakie branże są bezpieczne, a które zostaną w pełni zautomatyzowane? Odkryj, jak dostosować swoją karierę do nowej rzeczywistości."
 date: "2026-07-03"
 tag: "Nowości"
-imageUrl: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800"
+imageUrl: "/images/ai_jobs.png"
 ---
 
 Jednym z najczęstszych nagłówków w prasie jest widmo zbliżającego się bezrobocia technologicznego. Czy modele językowe zastąpią programistów, copywriterów i analityków? A może po prostu ewoluujemy w zupełnie nowe zawody?

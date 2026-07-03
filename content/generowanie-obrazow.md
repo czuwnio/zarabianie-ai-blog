@@ -3,7 +3,7 @@ title: "Generowanie obrazów przez AI: Od początkującego do eksperta"
 excerpt: "Midjourney, DALL-E, czy Stable Diffusion? Dowiedz się, jak tworzyć przepiękne, realistyczne obrazy i grafiki bez umiejętności artystycznych."
 date: "2026-07-03"
 tag: "Poradniki"
-imageUrl: "https://images.unsplash.com/photo-1682687982501-1e58f813fb31?auto=format&fit=crop&q=80&w=800"
+imageUrl: "/images/ai_generation.png"
 ---
 
 Sztuczna inteligencja zrewolucjonizowała nie tylko tekst, ale również grafikę. Tworzenie niesamowitych obrazów na podstawie zwykłego opisu tekstowego (tzw. *promptu*) jest dziś codziennością wielu projektantów, marketerów, a nawet hobbystów.

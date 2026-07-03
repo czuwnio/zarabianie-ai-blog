@@ -3,7 +3,7 @@ title: "Jak zbudować pasywny dochód z wykorzystaniem Sztucznej Inteligencji"
 excerpt: "Praktyczny poradnik pokazujący, jak LLM i narzędzia automatyzacji mogą pomóc Ci wygenerować dodatkowe, pasywne źródło przychodu w 2026 roku."
 date: "2026-07-03"
 tag: "Poradniki"
-imageUrl: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800"
+imageUrl: "/images/ai_passive_income.png"
 ---
 
 Sztuczna Inteligencja to już nie tylko ciekawostka technologiczna, ale potężne narzędzie biznesowe, które może pracować za nas 24 godziny na dobę. 

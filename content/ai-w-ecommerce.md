@@ -3,7 +3,7 @@ title: "Jak zautomatyzować obsługę klienta w E-commerce za pomocą AI?"
 excerpt: "Boty to przeszłość. Nowoczesne modele LLM potrafią prowadzić spersonalizowane, empatyczne rozmowy z klientami, rozwiązując ich problemy natychmiast."
 date: "2026-07-03"
 tag: "Poradniki"
-imageUrl: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800"
+imageUrl: "/images/ai_ecommerce.png"
 ---
 
 Prowadzenie sklepu internetowego to ogromne wyzwanie, z którego obsługa klienta to zazwyczaj najdroższy i najbardziej czasochłonny element. Jeszcze kilka lat temu chatboty irytowały klientów, oferując tylko zapętlone, sztywne menu. W 2026 roku AI zmieniło te zasady gry.
